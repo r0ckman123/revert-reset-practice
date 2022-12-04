@@ -1,3 +1,2 @@
 # revert-reset-practice
-revert and reset for git practice  
-change by mistake again  
+revert and reset for git practice
